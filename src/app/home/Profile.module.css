@@ -1,0 +1,17 @@
+.container {
+    background-color: #F4ECD9;
+    height: 100vh;
+}
+
+.card {
+    background-color: #dcbc81e2;
+    height: 500px;     
+    width: 300px;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+
+.image {
+    border-radius: 100px;
+
+}
